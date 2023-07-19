@@ -7,6 +7,7 @@ body {
   margin: 0;
   color: #27253d;
   background: #e6f3f8;
+  max-width: 100% ;
 }
 
 main {
@@ -74,4 +75,5 @@ footer .heart {
 ul > li{
     list-style-type: none;
 }
+
 
